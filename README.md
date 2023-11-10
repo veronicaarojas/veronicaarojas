@@ -1,6 +1,6 @@
 - Hello! I'm Veronica :star:
 - I am Colombian :colombia: and English :gb: and have recently moved to Australia :australia:
-- I am interested in AI and it's capabilities :brain: and how we can continue to advance it ethuically
+- I am interested in AI and it's capabilities :brain: and how we can continue to advance it ethically
 - I specialise in JavaScript, TypeScript, React.js, Next.js, SQL and Python.
 
 
